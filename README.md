@@ -2,6 +2,11 @@
 
 MDT Group Project · Atharva Gupta (2501093)
 
+## Demo videos
+
+- [8-minute version](https://youtu.be/BlJFsME-Rlk)
+- [Full version](https://youtu.be/rymiFYit2EE)
+
 ## What this repository is
 
 TimePulse is three autonomous Gen-AI agents that run a weekly timesheet-compliance
